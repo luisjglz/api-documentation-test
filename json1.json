@@ -1,0 +1,17 @@
+{
+  "user_id": "n 854875",
+  "user_name": "Luis José González",
+  "user_created": "2022-03-09T00:00:00.000Z",
+  "game": [
+    {
+      "id": 547,
+      "game_date": "2022-03-09T00:00:00.000Z",
+      "points": 122
+    },
+    {
+      "id": 824,
+      "game_date": "2023-03-09T00:00:00.000Z",
+      "points": 248
+    }
+  ]
+}
